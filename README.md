@@ -3,4 +3,4 @@
 - Model: after result we will upload huggingface url
 - Framework
 -  Using [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory/tree/main/examples)
--  Settings: upload soon
+-  Settings: upload soon.
